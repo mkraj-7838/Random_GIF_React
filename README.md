@@ -19,7 +19,7 @@ Check it out Live : https://random-gif-react07.netlify.app/
 
 ## Tech Stack
 - **Frontend**: React.js
-- **Styling**: CSS (or any styling framework used like Tailwind or Bootstrap)
+- **Styling**: CSS
 - **API**: Giphy API (or other GIF-fetching API)
 
 ## Installation

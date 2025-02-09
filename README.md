@@ -20,7 +20,7 @@ Check it out Live : https://random-gif-react07.netlify.app/
 ## Tech Stack
 - **Frontend**: React.js
 - **Styling**: CSS
-- **API**: Giphy API (or other GIF-fetching API)
+- **API**: Giphy API 
 
 ## Installation
 1. Clone the repository:

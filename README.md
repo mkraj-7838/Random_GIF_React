@@ -15,7 +15,7 @@ Check it out Live : https://random-gif-react07.netlify.app/
 - **Dynamic Updates**: GIFs are updated instantly on clicking the "Generate" button.
 
 ## Screenshots
-![Random GIF Generator Screenshot](./screenshots/random-gif-app.png)
+![Random GIF Generator Screenshot](image.png)
 
 ## Tech Stack
 - **Frontend**: React.js
